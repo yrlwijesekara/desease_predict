@@ -196,6 +196,9 @@ The model can detect diseases in **3 types of plants** with **15 total classes**
 5. View the prediction results with confidence score
 
 ## 🎨 Screenshots
+<img width="1914" height="901" alt="image" src="https://github.com/user-attachments/assets/fe4261fa-b697-4aee-932d-a2774446eccf" />
+
+<img width="1907" height="904" alt="image" src="https://github.com/user-attachments/assets/569d6b98-2fa9-493c-bacb-f2d4f2119b2d" />
 
 The application features:
 - Gradient purple background
